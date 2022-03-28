@@ -2,4 +2,4 @@
 
 ## A simple react app
 
-### [Live Site]()
+### [Live Site](https://travel101journal.netlify.app/)
