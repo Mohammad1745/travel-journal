@@ -1,4 +1,4 @@
-export default [
+const data = [
     {
         id: 1,
         country: "Japan",
@@ -33,3 +33,5 @@ export default [
         image: "./images/geirangerfjord.jpg",
     },
 ]
+
+export default data;
